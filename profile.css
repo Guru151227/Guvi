@@ -1,0 +1,64 @@
+.profile_body
+{
+    /* background-color: aliceblue; */
+    /*background-image: url("new1.jpg");*/
+    background-size: cover;
+    position: fixed;
+}
+.Nav_all
+{
+    height: 10vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:  #0c0464a0;
+    font-weight: bold;
+    font-size: larger;
+    margin-left: 5%;
+
+}
+.update_form
+{
+    position: absolute;
+    display:flex;
+    width:50vw;
+    height:70vh;
+    left: 25%;
+    margin-top: 5%;
+}
+.part1
+{
+   width:50%;
+   height:200px;
+  margin:10px;
+  position:flex;
+}
+.form-control
+{
+    width: 20vw !important;
+}
+.profile_image
+{
+    margin-left: 40%;
+    display: flex;
+}
+#profile-im
+{
+    border-radius: 35px;
+}
+.profile_div
+{
+    margin-left: 10px;
+}
+.form-label
+{
+    color:  #991B34;
+    font-weight: bold;
+    font-size: larger;
+}
+.form-control
+{
+    border-radius: 5px !important;
+    border-color: #991B34 !important;
+}
